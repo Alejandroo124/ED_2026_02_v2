@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Env / secrets
+.env
+.env.*
+
+# IDEs
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX auxiliares
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# Uso interno del profesor
+programa/
+laboratorios/
+soluciones/
+parciales/
+generar_figuras/
+notebook_originales/
+CLAUDE.md
+
+# Un cambio en el curso
+README_COLAB.md
+README.md
